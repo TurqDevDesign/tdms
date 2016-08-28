@@ -2,7 +2,7 @@
 TURQ Development Module Sidebar
 
 
-<img src="tdms/tdms_functions/tdms_setup/images/tdms_logo.png" width="250" height="auto" />
+<img src="https://github.com/TurqDevDesign/tdms/blob/master/tdms_functions/tdms_setup/images/tdms_logo.png" alt="TDMS Logo" width="250"/>
 
 
 This is the git repository for the TURQ Development Module Sidebar. 
