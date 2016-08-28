@@ -1,0 +1,18 @@
+{
+    "_Section_Description" : "This file contains the configurations for a specific installation of the TDMS system. The name of the containing folder must correlate with the configurationFolder parameter set in the internal tdms_info.json file.",
+    "tdms_database" :
+    {
+        "_Section_Description" : "Database connection information",
+        "databaseHost"         : null,
+        "databaseUserame"      : null,
+        "databasePassword"     : null,
+        "databaseName"         : null,
+        "databasePort"         : null,
+        "tablePrefix"          : null
+    },
+    "tdms_SessionSecurity" :
+    {
+        "_Section_Description" : "Variables reserved for future use, will eventually be used to implement a better system of session security using cookies rather than php sessions",
+        "secretKey"            : null
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "about" :
+    {
+        "appName"     : "TDMS (TURQ Development Module Sidebar)",
+        "version"     : "1.0.0",
+        "developer"   : "Austin Fish",
+        "releaseDate" : "12/31/2016"
+    },
+    "config" :
+    {
+        "configurationFolder" : "/test/tdms_config.json"
+    }
+}
