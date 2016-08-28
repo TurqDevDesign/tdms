@@ -20,3 +20,7 @@ Next, you must place the *tdms_functions* folder just outside of your public HTM
 * This folder also houses all of the backend files for the TDMS system, excluding the module (plugin) directory, and the tdms_info.json file, as they are specific to each installation. Placing these files separate from the site-specific information helps to avoid duplicating 40+ MB for each site, when the files will never change outside of updates. 
 
 
+### Disclaimer
+
+This application is nowhere near completed at the moment. You can install it, but it won't do much for you.
+
